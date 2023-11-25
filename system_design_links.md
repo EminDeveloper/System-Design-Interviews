@@ -2,6 +2,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 1) 
 
 ## Chapter 1: Scale From Zero To Millions Of Users
 
+
 [[1] Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  
 [[2] Should you go Beyond Relational Databases?](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases)  
 [[3] Replication](<https://en.wikipedia.org/wiki/Replication_(computing)>)  
@@ -28,6 +29,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 1) 
 
 ## Chapter 4: Design A Rate Limiter:
 
+
 [[1] Rate-limiting strategies and techniques](https://cloud.google.com/solutions/rate-limiting-strategies-techniques)  
 [[2] Twitter rate limits](https://developer.twitter.com/en/docs/basics/rate-limits)  
 [[3] Google docs usage limits](https://developers.google.com/docs/api/limits)  
@@ -46,6 +48,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 1) 
 [[16] OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_architecture)
 
 ## Chapter 5: Design Consistent Hashing
+
 
 [[1] Consistent hashing wiki](https://en.wikipedia.org/wiki/Consistent_hashing)  
 [[2] Consistent Hashing](https://tom-e-white.com/2007/11/consistent-hashing.html)  
